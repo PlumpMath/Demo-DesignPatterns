@@ -8,6 +8,8 @@ namespace DesignPatterns.Observer
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Demo-ObserverPattern - Observers of the Planet Express Newsletter (May or may not be inspired by Futurama).\n");
+
             // single source for deferring content creation 
             var subscribableContentFactory = new SubscribableContentFactory();
             var subscriberFactory = new SubscriberFactory();
@@ -33,7 +35,7 @@ namespace DesignPatterns.Observer
             content.AddSubscriber(zoidberg);    // hey, why not zoidberg?!
 
             // subscribable content - emit change
-            content.Publish(Constant.Announcements.GoodNewsEveryone);
+            content.Publish(Constant.Announcements.IsThisThingOn);
 
             // subscriber - unsubscribe from content 
             content.RemoveSubscriber(bender);

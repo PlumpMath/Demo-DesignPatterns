@@ -40,6 +40,8 @@
             public static string GoodNewsEveryone => "Professor Farnsworth: Good News Everyone!";
 
             public static string GoodNewsButNotOnTv => "Professor Farnsworth: Good news! There's a report on TV with some bad news.";
+
+            public static string IsThisThingOn => "Professor Farnsworth: Is this thing on?";
         }
     }
 }

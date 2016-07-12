@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using DesignPatterns.Observer.Interface;
 
 namespace DesignPatterns.Observer.Implementation.SubscribableContent
@@ -36,6 +37,7 @@ namespace DesignPatterns.Observer.Implementation.SubscribableContent
 
         public void Publish(string message)
         {
+            Console.WriteLine($"Publishing to Observers: {message}");
             _message = message;
             NotifySubscribers();
         }
