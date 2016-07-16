@@ -5,6 +5,9 @@
 
 ## Some background on this: 
 
+### Blog post on this adventure 
+The below details aren't what I consider value added to a typical user of Github or messing around with this code. That said, I'm working on a more suitable location for such details in a blog post to share the journey for others to learn from or empathize with. That can be found on medium in draft version [here](https://medium.com/@CJTaylor/initial-draft-planting-the-seeds-for-a-culture-of-learning-77eefe2f13a1#.1w6sk5bmb) :)
+
 ### How did this start? 
 
 Simply put, a [`Facebook post`](https://www.facebook.com/CJTheNerdyCoder/posts/10153703445178473?comment_id=10153703479303473&comment_tracking=%7B%22tn%22:%22R2%22%7D) in April 2016 not even about design patterns oddly enough. Chatter in the comments with peers revealed an opportunity to build a community around learning; starting with Design Patterns. I consider that a personal pivot, but it's been an incredible experience.
