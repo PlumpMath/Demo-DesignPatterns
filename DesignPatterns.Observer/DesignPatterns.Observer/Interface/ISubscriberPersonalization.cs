@@ -1,6 +1,4 @@
-﻿using DesignPatterns.Observer.Interface;
-
-namespace DesignPatterns.Observer.Implementation.Subscribers
+﻿namespace DesignPatterns.Observer.Interface
 {
     public interface ISubscriberPersonalization
     {
