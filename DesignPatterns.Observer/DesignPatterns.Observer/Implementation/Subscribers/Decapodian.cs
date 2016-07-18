@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using DesignPatterns.Observer.Interface;
 
 namespace DesignPatterns.Observer.Implementation.Subscribers

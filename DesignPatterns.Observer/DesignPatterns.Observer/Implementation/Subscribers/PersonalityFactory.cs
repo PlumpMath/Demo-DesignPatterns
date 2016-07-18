@@ -1,4 +1,5 @@
 ﻿using System;
+using DesignPatterns.Observer.Interface;
 
 namespace DesignPatterns.Observer.Implementation.Subscribers
 {
